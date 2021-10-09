@@ -1,0 +1,7 @@
+# Write A Program To Fill In A Letter Template Given Below With Name & Date:
+
+print('Enter name:')
+x= input()
+print('Enter date:')
+y= input()
+print('Dear ' + x + '\nYou have selected ' + y)
