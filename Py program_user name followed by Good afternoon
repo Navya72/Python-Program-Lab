@@ -1,0 +1,5 @@
+# Write A Python Program To Display A User Entered Name Followed By Good Afternoon Using input() Function.
+
+print('Enter your name:')
+x = input()
+print('Hello, ' + x + 'Good Afternoon')
