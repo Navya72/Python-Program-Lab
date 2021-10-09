@@ -1,0 +1,8 @@
+# Write A Program To Detect Double Spaces In A String.
+
+
+string = input("Please, Enter A String -> ")
+if "  " in string:
+    print("Given String Contains Double Spaces")
+else:
+    print("Given String Dosen't Contain Double spaces") 
